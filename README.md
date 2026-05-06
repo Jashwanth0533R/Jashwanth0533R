@@ -86,13 +86,21 @@ Currently, I am improving my technical and problem-solving skills while explorin
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jashwanth0533R&show_icons=true&theme=tokyonight" />
-</p>
+## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashwanth0533R&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jashwanth0533R&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jashwanth0533R&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashwanth0533R&layout=compact&theme=tokyonight&cache_seconds=1800" />
+
+</div>
 
 ---
 
