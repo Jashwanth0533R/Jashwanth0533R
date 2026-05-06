@@ -84,13 +84,13 @@ Currently, I am improving my technical and problem-solving skills while explorin
 
 ---
 
-# GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jashwanth0533R&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jashwanth0533R&show_icons=true&theme=radical"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashwanth0533R&layout=compact&theme=vue-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jashwanth0533R&layout=compact&theme=radical"/>
 
 </div>
 
