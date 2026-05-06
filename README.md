@@ -1,10 +1,10 @@
-# Hello, I'm Devesh Rawat!
+# Hello, I'm Jashwanth Kumar Gutta!
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Android+Developer;Flutter+Enthusiast;Hackathon+Winner;Problem+Solver;Tech+Innovator)](https://git.io/typing-svg)
 
-**3rd Year B.Tech CSE Student | Android & Flutter Developer | State-Level Hackathon Champion**
+**4th Year B.Tech CSE(AI & ML) Student | Android & Flutter Developer | State-Level Hackathon Champion**
 
 </div>
 
