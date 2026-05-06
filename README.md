@@ -84,7 +84,6 @@ Currently, I am improving my technical and problem-solving skills while explorin
 
 ---
 
-## GitHub Statistics
 
 ## GitHub Statistics
 
